@@ -1,0 +1,26 @@
+.completed {
+    text-decoration: line-through;
+    text-decoration-color: rgb(58, 98, 228);
+  }
+  P,h2,div{
+    padding:1%;
+    margin:0%;
+    background-color: coral;
+    color:darkmagenta;
+    text-align:center;
+  }
+  
+  button,input{
+  text-align:center;
+  background-color: cyan;
+}
+img{
+    display:block;
+    margin:auto;
+}
+ 
+ 
+  
+  
+  
+
